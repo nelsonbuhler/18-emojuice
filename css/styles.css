@@ -75,6 +75,7 @@ h2 {
   font-size: 30px;
   font-family: 'Maven Pro', sans-serif;
   text-align: center;
+  font-weight: bold;
 }
 
 .section-green {
@@ -91,13 +92,14 @@ h2 {
   color: #00000085;
 }
 
-.section-green {
+.section-green h2 {
   color: #ffffff;
 }
 
 h3 {
   font-family: 'Sriracha', cursive;
-  margin-bottom: 0px;
+  margin-bottom: -20px;
+  margin-top: 0px;
   color: #000;
 }
 
@@ -107,7 +109,9 @@ h3 {
   flex-wrap: wrap;
   justify-content: space-between;
   margin-bottom: 40px;
-  padding: 20px;
+  padding: 30px;
+  padding-left: 40px;
+  box-shadow: 0px 0px 8px 2px #00000063;
 }
 
 .section-green h3 {
@@ -120,6 +124,7 @@ h3 {
   font-family: 'Maven Pro', sans-serif;
   align-self: flex-end;
   text-decoration: underline;
+  font-weight: bold ;
 }
 
 .section-green img {
