@@ -28,10 +28,16 @@ div.box-title {
   font-size: 20px;
 }
 
-.container {
+header nav {
   display: flex;
   flex-direction: column;
   align-items: center;
+  font-size: 22px;
+}
+
+header nav a {
+  padding: 9px 18px;
+  border-radius: 16px;
 }
 
 a {
@@ -43,9 +49,7 @@ a {
   background-color: #7DB96F;
   color: #ffffff;
   font-family: 'Maven Pro', sans-serif;
-  padding: 6px 12px;
   margin: 10px;
-  border-radius: 8px;
   align-items: center;
 }
 
