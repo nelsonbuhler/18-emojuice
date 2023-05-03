@@ -16,7 +16,7 @@ header {
   flex-direction: column;
   flex-wrap: nowrap;
   text-align: center;
-  padding: 12px 4px 70px 5px;
+  padding: 12px 4px 35px 5px;
 }
 
 div.box-title {
@@ -61,7 +61,7 @@ a {
 .section-light {
   font-family: 'Quattrocento Sans', sans-serif;
   display: flex;
-  padding: 25px 40px 70px 40px;
+  padding: 57px 40px 82px 40px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -98,6 +98,8 @@ h2 {
 
 .section-green h2 {
   color: #ffffff;
+  padding: 14px;
+  font-size: 26px;
 }
 
 h3 {
@@ -168,6 +170,12 @@ h3 {
 
 nav h2 {
   color: #7DB96F ;
+  font-size: 28px;
+}
+
+nav.section-light {
+  margin-top: -50px;
+  font-size: 21px;
 }
 
 footer {
