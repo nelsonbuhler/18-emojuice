@@ -1,7 +1,7 @@
 body {
+  background-color: #ffffff;
   max-width: 380px;
   margin: auto;
-  background: #ddd;
 }
 
 img {
@@ -14,6 +14,7 @@ header {
 }
 
 div.box-title {
+  background-color: #ffffffdb;
   padding: 10px 40px;
   margin: 18px 22px 32px 22px;
   font-family: 'Quattrocento Sans', sans-serif;
@@ -52,6 +53,7 @@ h2 {
 }
 
 .section-green {
+  background-color: #7DB96F;
   font-family: 'Quattrocento Sans', sans-serif;
   padding: 25px;
   padding-top : 50px;
