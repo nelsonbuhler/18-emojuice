@@ -12,3 +12,69 @@ img {
 header {
   background-image: url("../img/bg_emojuice.webp");
 }
+
+div.box-title {
+  padding: 10px 40px;
+  margin: 18px 22px 32px 22px;
+}
+
+.cta {
+  padding: 5px 10px;
+  margin: 10px;
+  border-radius: 8px;
+  align-items: center;
+}
+
+.section-light {
+  display: flex;
+  padding: 32px 40px 50px 40px;
+  flex-direction: column;
+}
+
+.section-light img {
+  margin-top: 15px;
+  width: 40px;
+  align-self: center;
+}
+
+h2 {
+  font-size: 26px;
+}
+
+.section-green {
+  padding: 25px;
+  padding-top : 50px;
+}
+
+.produits {
+  display: flex;
+  border-radius: 21px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 40px;
+  padding: 20px;
+}
+
+.section-green h3 {
+  font-size: 25px;
+  text-align: left;
+}
+
+.section-green a {
+  align-self: flex-end;
+  text-decoration: underline;
+}
+
+.section-green img {
+  width: 90px;
+}
+
+.section-light a {
+  padding: 6px;
+  margin: 4px 70px;
+}
+
+footer {
+  padding: 20px;
+  font-size: 11px;
+}
